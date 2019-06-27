@@ -15,7 +15,13 @@
  - FC+Softmax
 
 运行方法：
+
 1.下载数据
+
+链接：https://pan.baidu.com/s/11c782t1q1Afe3NL2A15wCA 
+提取码：yuz5 
+
 2.将数据解压到data目录下后
+
 3.运行： python train.py
 
